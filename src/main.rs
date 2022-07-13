@@ -1,4 +1,4 @@
-use tutorial13_terrain::run;
+use tutorial10_lighting::run;
 
 fn main() {
     pollster::block_on(run());

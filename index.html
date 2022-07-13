@@ -5,25 +5,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pong with WASM</title>
+    <title>WASM Resource Management Demo</title>
 </head>
 
 <body>
-    <div id="wasm-example"></div>
+    <div id="wasm-example">
+
+    </div>
+
     <script type="module">
-        import init from "./pkg/tutorial13_terrain.js";
+        import init from "./pkg/tutorial10_lighting.js";
         init().then(() => {
             console.log("WASM Loaded");
         });
     </script>
-    <style>
-        body {
-            background-color: #444;
-        }
-        canvas {
-            background-color: black;
-        }
-    </style>
 </body>
 
 </html>

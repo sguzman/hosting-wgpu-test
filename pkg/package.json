@@ -1,15 +1,15 @@
 {
-  "name": "tutorial13-terrain",
+  "name": "tutorial10-lighting",
   "collaborators": [
     "Ben Hansen <bhbenjaminhansen@gmail.com>"
   ],
   "version": "0.1.0",
   "files": [
-    "tutorial13_terrain_bg.wasm",
-    "tutorial13_terrain.js",
-    "tutorial13_terrain.d.ts"
+    "tutorial10_lighting_bg.wasm",
+    "tutorial10_lighting.js",
+    "tutorial10_lighting.d.ts"
   ],
-  "module": "tutorial13_terrain.js",
-  "types": "tutorial13_terrain.d.ts",
+  "module": "tutorial10_lighting.js",
+  "types": "tutorial10_lighting.d.ts",
   "sideEffects": false
 }

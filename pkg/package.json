@@ -1,0 +1,15 @@
+{
+  "name": "tutorial13-terrain",
+  "collaborators": [
+    "Ben Hansen <bhbenjaminhansen@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "tutorial13_terrain_bg.wasm",
+    "tutorial13_terrain.js",
+    "tutorial13_terrain.d.ts"
+  ],
+  "module": "tutorial13_terrain.js",
+  "types": "tutorial13_terrain.d.ts",
+  "sideEffects": false
+}
